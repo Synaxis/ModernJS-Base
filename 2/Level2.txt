@@ -1,0 +1,10 @@
+JS Dynamically Typed Language
+> types are associated with values not variables
+
+> the same varable can hold multiple types
+
+> we do not need to specify types
+
+> most other languages are statically typed (Java, C#, C++)
+
+> there are supersets of js and addons to allow static typing (TypeScrit, Flow)
